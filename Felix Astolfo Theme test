@@ -14,8 +14,8 @@
     --app-blur: 0px;
     --button-background: linear-gradient(60deg, var(--highlight), var(--highlight-darker));
     --button-background-static: var(--highlight);
-    --background-primary: rgba(133, 0, 255, 0.65) !important;
-    --background-secondary: rgba(133, 0, 255, 0.400) !important;
+    --background-primary: rgba(10,0,77, 0.65) !important;
+    --background-secondary: rgba(10,0,77, 0.400) !important;
     --background-modifier-hover : rgba(20, 20, 20, 0.500) ;
     --box-shadow: 0 0 10px 0px black;
 
