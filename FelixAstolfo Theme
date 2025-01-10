@@ -15,7 +15,7 @@
     --button-background: linear-gradient(60deg, var(--highlight), var(--highlight-darker));
     --button-background-static: var(--highlight);
     --background-primary: rgba(24, 24, 24, 0.26) !important;
-    --background-secondary: rgba(26, 26, 26, 0.300) !important;
+    --background-secondary: rgba(26, 26, 26, 0.100) !important;
     --background-modifier-hover : rgba(20, 20, 20, 0.500) ;
     --box-shadow: 0 0 10px 0px black;
 
