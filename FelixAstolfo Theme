@@ -16,7 +16,7 @@
     --button-background-static: var(--highlight);
     --background-primary: rgba(24, 24, 24, 0.26) !important;
     --background-secondary: rgba(26, 26, 26, 0.500) !important;
-    --background-modifier-hover : rgba(20, 20, 20, 0.500) ;
+    --background-modifier-hover : rgba(20, 20, 20, 0.300) ;
     --box-shadow: 0 0 10px 0px black;
 
     /*other*/
