@@ -1,6 +1,6 @@
 /*
- *name          Lande della Discordia
- *author        @ungiglio
+ *name          FelixAstolfo Theme
+ *author        omegayy on discord
  *internalcode  AWKGLASS
 */
 
@@ -17,7 +17,7 @@
     --background-primary: rgba(255, 183, 197, 0.133) !important;
     --background-secondary: rgba(26, 26, 26, 0.500) !important;
     --background-modifier-hover : rgba(20, 20, 20, 0.500) ;
-    --box-shadow: 0 0 10px 0px black;
+    --box-shadow: 0 0 0px 0px black;
 
     /*other*/
     --highlight: rgb(var(--rgb-highlight));
