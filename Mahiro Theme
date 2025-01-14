@@ -4768,3 +4768,9 @@ html:is([lang=en-GB], [lang=fr]) .info_c5a741::after {
     --text-warning: var(--yellow-color);
     --text-danger: var(--red-color)
 }
+body, 
+.messageContent_f9f2ca, 
+.chat-content, 
+.message-content {
+    color: var(--chat-font-color) !important;
+}
