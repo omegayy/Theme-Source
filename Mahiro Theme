@@ -2856,7 +2856,7 @@ html:is([lang=en-GB],[lang=fr]) .info_c5a741::after{
 .theme-dark .container_a4d79f{
     --header-primary:#fff;
     --header-secondary:#b9bbbe;
-    --text-normal:#ffb7c575;
+    --text-normal:#dcddde;
     --text-muted:#72767d;
     --text-link:hsl(197,calc(var(--saturation-factor, 1)*100%),47.8%);
     --interactive-normal:#b9bbbe;
