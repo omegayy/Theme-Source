@@ -17,6 +17,10 @@
              \|___|/                                                                                                                                                                                                                                                                                               
 */
 
+:root{
+    --test: rgb(255, 255, 255);
+}
+
 :root {
   --ocean-bg: url(https://i.imgur.com/weOUkrT.png);
   --ocean-home-icon: url(https://i.imgur.com/knu0gJQ.png);
@@ -510,7 +514,7 @@ button[aria-label="Send a gift"] {
 
 .description-30xx7u,
 .labelDescriptor-34wZ-z {
-  color: var(--ocean-color2);
+  color: var(test);
 }
 
 .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG,
